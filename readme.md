@@ -2,8 +2,6 @@
 NotS WAPP workshop
 
 
-## Installatie
-
 # Mapbox
 
 <a href="https://docs.mapbox.com/mapbox-gl-js/guides/"><img src="https://assets.website-files.com/5d3ef00c73102c436bc83996/5d3ef00c73102c1f23c83a2a_logo-reversed.png" align="left" hspace="10" vspace="6"></a>
