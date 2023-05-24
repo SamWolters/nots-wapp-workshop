@@ -56,7 +56,7 @@ Er is een <div>-element met de ID "map" in het <body>-gedeelte van de pagina. De
 
 ## Initialiseer de map
 
-Vervolgens voeg je de Mapbox GL JS-code toe die een kaart initialiseert, die wordt weergegeven in de <div> die je hebt aangemaakt in de vorige stap. In index.html plaats je het volgende fragment boven de afsluitende </body>-tag. Zorg ervoor dat je de constante mapbox.accessToken instelt op jouw Mapbox-toegangstoken.
+Vervolgens voeg je de Mapbox GL JS-code toe die een kaart initialiseert, die wordt weergegeven in de div die je hebt aangemaakt in de vorige stap. In index.html plaats je het volgende fragment boven de afsluitende body-tag. Zorg ervoor dat je de constante mapbox.accessToken instelt op jouw Mapbox-toegangstoken.
 
 ```html
 <script>
