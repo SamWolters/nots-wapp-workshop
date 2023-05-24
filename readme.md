@@ -21,7 +21,7 @@ NotS WAPP workshop
 
 Open je teksteditor en maak een nieuw bestand aan met de naam index.html. Stel dit nieuwe HTML-bestand in door de volgende code in je teksteditor te plakken. Deze code creëert de structuur van de pagina.
 
-Er is een <div>-element met de ID "map" in het <body>-gedeelte van de pagina. Deze <div> is de container waarin de kaart op de pagina wordt weergegeven.
+Er is een div-element met de ID "map" in het body-gedeelte van de pagina. Deze div is de container waarin de kaart op de pagina wordt weergegeven.
 
 ```html
 <!DOCTYPE html>
